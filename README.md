@@ -1,7 +1,9 @@
 <div align="justify">
 
 # Diseño y Simulación de Robot Planar con Autodesk Inventor
-
+<div align="center">
+![image](https://github.com/user-attachments/assets/2e4ae09c-c6cb-4c77-a889-f49bae71d146)
+</div>
 En este repositorio se presenta el desarrollo completo del **Diseño y Simulación de un Robot Planar** utilizando **Autodesk Inventor**. El objetivo fue concebir un manipulador de tres grados de libertad, simular su comportamiento dinámico bajo acción de la gravedad y trayectorias predefinidas, y, finalmente, seleccionar apropiadamente motores de corriente continua acoplados a reductores planetarios basados en los resultados obtenidos.
 
 ## Introducción
